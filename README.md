@@ -1,5 +1,5 @@
 # Proyecto_Machine_Learning
-Proyecto de recomendación de películas y predicción de rating (calificación) para datos de netflix a través de IA utilizando modelos de Aprendizaje Supervisados para la prediccion, Aprendizaje No Supervisado para la recomendacion y Python para el análisis e implementacion.
+Proyecto de recomendación de películas y predicción de rating (calificación) para datos de netflix a través de IA utilizando modelos de Aprendizaje Supervisados para la prediccion, Aprendizaje No Supervisado para la recomendacion y Python para el análisis e implementacion de la aplicaci'on web.
 
 * **Colab del Análisis Exploratorio de Datos:** https://colab.research.google.com/drive/1whjKjv4LVcupsOaF5cpHrZ_8aauPMwaK?usp=sharing
 
